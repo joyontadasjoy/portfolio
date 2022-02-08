@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/seamless_paper_texture.jpg);
+}
+
+.font-sc {
+    font-variant: small-caps;
+}
+
+.brand:hover,
+a:hover {
+    text-decoration: none;
+}
